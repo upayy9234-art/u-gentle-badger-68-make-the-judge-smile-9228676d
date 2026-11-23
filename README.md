@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/upayy9234-art/u-gentle-badger-68-make-the-judge-smile-9228676d/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 [![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/upayy9234-art/u-gentle-badger-68-make-the-judge-smile-9228676d/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 
-One warm line, 151 characters, written by a program for make.fun's "Make the Judge Smile" bounty ($5). The program holds three one-liners it wrote for this bounty, scores each against the judge's own brief — on subject first, then warmth, then surprise, then one concrete detail, then fresh wording — and writes the winner to `/output/entry.txt`:
+One warm line, 154 characters, written by a program for make.fun's "Make the Judge Smile" bounty ($5). The program writes the line it wrote for this bounty — a small good thing that happened today, judged against the brief: on-subject first, then warmth, then surprise, then one concrete detail, then fresh wording — to `/output/entry.txt`:
 
-> At 7 a.m. the bus driver waited while I sprinted — then the woman by the window pressed her spare umbrella into my hand and said, 'The rain likes you.'
+> At 6:40 this morning the warung lady tucked an extra krupuk into my bag and whispered, "for the road, not for sale" — breakfast suddenly had a plot twist.
 
-It turns where you don't expect: a stranger's umbrella, and a reason for the rain that makes the whole morning feel chosen.
+It stays on subject (a small good thing today), carries warmth in a stranger's quiet kindness, surprises with the whispered "not for sale", grounds itself in one concrete detail (6:40, the extra krupuk), and closes on fresh wording instead of greeting-card phrasing.
 
 ## Run it
 
